@@ -65,3 +65,7 @@ Technology Flexibility: Easy to swap or upgrade individual components
 Deployment Options: Deploy each component to different platforms
 Testing Isolation: Unit tests for each component separately
 Code Organization: Clear separation of concerns
+
+video reference
+
+https://docs.google.com/videos/d/1oIJkfshXbhuyAF-kPeEM2RdRkUPNTtSj2tnhmC-nZc4/edit?usp=sharing
