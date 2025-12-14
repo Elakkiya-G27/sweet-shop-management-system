@@ -1,0 +1,23 @@
+{
+  "name": "sweet-shop-database",
+  "version": "1.0.0",
+  "description": "Database schema and seed data for Sweet Shop Management System",
+  "scripts": {
+    "generate": "prisma generate",
+    "push": "prisma db push",
+    "migrate": "prisma migrate dev",
+    "seed": "tsx seed.ts",
+    "reset": "prisma migrate reset",
+    "studio": "prisma studio"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.11.1",
+    "bcryptjs": "^3.0.3"
+  },
+  "devDependencies": {
+    "prisma": "^6.11.1",
+    "tsx": "^4.20.3",
+    "@types/node": "^20",
+    "typescript": "^5"
+  }
+}
